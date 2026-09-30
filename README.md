@@ -183,7 +183,7 @@ Here, the highlighted one is the web project which is dependent on other infrast
 
 SUMMARY: –
 
-In this section, we have seen the bits and bytes of the Single Page Application which we are going to make use while building the application. We have also seen the glimpse of app and solution. In the next section, we’ll start creating the application right from the scratch. I would recommend you to download the app from GitHub URL shown below to help you while building https://github.com/rahulsahay19/MovieReviewSPASkeleton.
+In this section, we have seen the bits and bytes of the Single Page Application which we are going to make use while building the application. We have also seen the glimpse of app and solution. In the next section, we’ll start creating the application right from the scratch. I would recommend you to download the app from GitHub URL shown below to help you while building https://github.com/ramonaoldf/MovieReviewSPASkeleton.
 
 P.S.:- I would appreciate if you guys leave constructive feedback upon reading the book. If you have any suggestions, please do put that too, so that going forward that can be incorporated. I hope, you people will like the book. With this, I would like to wrap the introduction here. However, in order to understand the book in detail, I do encourage you guys to watch the you-tube video for the same.
 
